@@ -2,7 +2,7 @@
 
 Solace Industries is the engineering collective behind **Solace Terminal** and **Solace Mobile**.
 
-We build high-velocity financial intelligence tools designed for speed, precision, and zero latency. Our software bridges the gap between institutional terminals and modern user interfaces.
+We build high-velocity financial intelligence for emerging LatAm Markets.
 
 ### Software
 
@@ -14,7 +14,6 @@ We build high-velocity financial intelligence tools designed for speed, precisio
 ---
 
 ### Contact
-* **Inquiries:** `root@solace.industries`
-* **Status:** `Active Development`
+* **Inquiries:** `root@solace.industries` (remember to buy this domain)
 
-<sub>© 2026 Solace Industries • Panama</sub>
+</sub> 2026 Solace Industries • Panama</sub>
